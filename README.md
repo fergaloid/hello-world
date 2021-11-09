@@ -1,2 +1,2 @@
 # hello-world
-Refresher tutorial repository
+Going through some tutorials to refresh my github knowledge. 
